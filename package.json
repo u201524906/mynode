@@ -1,0 +1,22 @@
+{
+  "name": "webcliente",
+  "version": "1.0.0",
+  "description": "cliente para servicios",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/u201524906/mynode.git"
+  },
+  "keywords": [
+    "k"
+  ],
+  "author": "Fabio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/u201524906/mynode/issues"
+  },
+  "homepage": "https://github.com/u201524906/mynode#readme"
+}
